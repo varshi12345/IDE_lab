@@ -1,0 +1,10 @@
+C:\Users\nvars\source\repos\primeno\bin\Debug\primeno.exe.config
+C:\Users\nvars\source\repos\primeno\bin\Debug\primeno.exe
+C:\Users\nvars\source\repos\primeno\bin\Debug\primeno.pdb
+C:\Users\nvars\source\repos\primeno\obj\Debug\primeno.csproj.AssemblyReference.cache
+C:\Users\nvars\source\repos\primeno\obj\Debug\primeno.Form1.resources
+C:\Users\nvars\source\repos\primeno\obj\Debug\primeno.Properties.Resources.resources
+C:\Users\nvars\source\repos\primeno\obj\Debug\primeno.csproj.GenerateResource.cache
+C:\Users\nvars\source\repos\primeno\obj\Debug\primeno.csproj.CoreCompileInputs.cache
+C:\Users\nvars\source\repos\primeno\obj\Debug\primeno.exe
+C:\Users\nvars\source\repos\primeno\obj\Debug\primeno.pdb
