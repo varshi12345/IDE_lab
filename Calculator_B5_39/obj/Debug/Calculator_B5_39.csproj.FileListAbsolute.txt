@@ -1,0 +1,10 @@
+C:\Users\nvars\source\repos\Calculator_B5_39\bin\Debug\Calculator_B5_39.exe.config
+C:\Users\nvars\source\repos\Calculator_B5_39\bin\Debug\Calculator_B5_39.exe
+C:\Users\nvars\source\repos\Calculator_B5_39\bin\Debug\Calculator_B5_39.pdb
+C:\Users\nvars\source\repos\Calculator_B5_39\obj\Debug\Calculator_B5_39.csproj.AssemblyReference.cache
+C:\Users\nvars\source\repos\Calculator_B5_39\obj\Debug\Calculator_B5_39.Form1.resources
+C:\Users\nvars\source\repos\Calculator_B5_39\obj\Debug\Calculator_B5_39.Properties.Resources.resources
+C:\Users\nvars\source\repos\Calculator_B5_39\obj\Debug\Calculator_B5_39.csproj.GenerateResource.cache
+C:\Users\nvars\source\repos\Calculator_B5_39\obj\Debug\Calculator_B5_39.csproj.CoreCompileInputs.cache
+C:\Users\nvars\source\repos\Calculator_B5_39\obj\Debug\Calculator_B5_39.exe
+C:\Users\nvars\source\repos\Calculator_B5_39\obj\Debug\Calculator_B5_39.pdb
